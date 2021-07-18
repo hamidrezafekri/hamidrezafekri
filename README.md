@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**hamidrezafekri/hamidrezafekri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Mohammad from Iran, and I am python developer
 
-Here are some ideas to get you started:
+### Skills: 
+	* Python
+	* Django
+  * flask
+	* html
+	* css
+	* Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayazadeh&show_icons=true&theme=tokyonight)
+
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayazadeh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayazadeh&bg_color=black)
