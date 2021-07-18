@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Mohammad from Iran, and I am python developer
+### I'm hamidreza and i'm python web-developer
 
 ### Skills: 
 	* Python
@@ -10,10 +10,10 @@
 	* css
 	* Bootstrap
 
-# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayazadeh&show_icons=true&theme=tokyonight)
+# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fekri&show_icons=true&theme=tokyonight)
 
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayazadeh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fekri&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayazadeh&bg_color=black)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fekri&bg_color=black)
