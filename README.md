@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋
 
-### I'm hamidreza and i'm python web-developer
+### I'm hamidreza and i'm python web-developer 
 
 ### Skills: 
 	* Python
@@ -19,7 +19,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hamidrezafekri&bg_color=black)
  -->
  # 💫About Me :
-I'm a programmer with strong team spirit and I would like to gain new knowledge in my specialty(RESTful API) even as a self-learner.
+I'm a software engineer and now working on back-end development(python) but I can switch ASAP and I love AI  
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itsfekri/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidreza-fekri-a23bb0188/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15623003/hamid-reza-fekri) 
@@ -32,4 +32,4 @@ I'm a programmer with strong team spirit and I would like to gain new knowledge 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidrezafekri&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![](https://komarev.com/ghpvc/?username=hamidrezafekir&label=Visitors+Count&color=brightgreen)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hamidrezafekri&bg_color=black)
