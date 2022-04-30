@@ -32,4 +32,4 @@ I'm a programmer with strong team spirit and I would like to gain new knowledge 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidrezafekri&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![](https://komarev.com/ghpvc/?username=hamidrezafekir&label=Visitors+Count&color=brightblue)
+![](https://komarev.com/ghpvc/?username=hamidrezafekir&label=Visitors+Count&color=brightgreen)
