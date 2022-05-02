@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 
 ### I'm hamidreza and i'm python web-developer 
 
@@ -16,9 +16,9 @@
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hamidrezafekri&bg_color=black)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hamidrezafekri&bg_color=black) -->
 
-<!--  # 💫About Me :
+ # 💫About Me :
 I'm a software engineer and now working on back-end development(python) but I can switch ASAP and I love AI  
 
 ## 🌐Socials
@@ -29,5 +29,5 @@ I'm a software engineer and now working on back-end development(python) but I ca
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=hamidrezafekri&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamidrezafekri&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidrezafekri&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidrezafekri&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
